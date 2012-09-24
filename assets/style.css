@@ -55,9 +55,18 @@ a:hover {
 
 
 h1 {
-  font-size: 10px;
-  line-height: 10px;
+  font-size: 18px;
+  line-height: 18px;
   font-weight: bold;
   color: black;
-  margin-top: 20px;
+  margin-top: 40px;
+}
+
+h2 {
+  font-size: 13px;
+  line-height: 13px;
+}
+
+.castellano p {
+  color: #666;
 }
